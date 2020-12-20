@@ -1,0 +1,6 @@
+cd ~/SFND_Lidar_Obstacle_Detection/src/quiz/ransac
+rm -r debug
+mkdir debug
+cd debug
+cmake -DCMAKE_BUILD_TYPE=Debug ..
+make -j8

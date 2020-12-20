@@ -1,0 +1,2 @@
+cd ~/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/debug
+./quizRansac
